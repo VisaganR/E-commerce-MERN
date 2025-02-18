@@ -11,12 +11,7 @@ Backend .env file
 
 
 
-Backend .env file 
 
-MONGODB_URI = mongodb+srv://visagan126:visa126@mern.nrlo8.mongodb.net/?retryWrites=true&w=majority&appName=MERN 
-TOKEN_SECRET_KEY = "QWEEEIOVIVDIQWFIEFVVIFIEFIWIIWOQIWDIOSODVBN"
-FRONTEND_URL=http://localhost:3000
-=======
 MONGODB_URI = mongodb+srv://visagan126:visa126@mern.nrlo8.mongodb.net/?retryWrites=true&w=majority&appName=MERN TOKEN_SECRET_KEY = "QWEEEIOVIVDIQWFIEFVVIFIEFIWIIWOQIWDIOSODVBN" FRONTEND_URL=http://localhost:3000
 >>>>>>> a2052db (final Updated)
 
