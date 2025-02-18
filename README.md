@@ -13,6 +13,6 @@ Frontend .env file
 
 REACT_APP_CLOUD_NAME_CLOUDINARY = dlngvrf7i
 
-Image : [https://drive.google.com/drive/folders/1KmY74OYniEodtOVAjNGJv4628HghRbcQ?usp=sharing](https://drive.google.com/file/d/174glCvqwyEnTc6VXan0PcoyT9V-Q2NPb/view?usp=sharing)
+Image : https://drive.google.com/file/d/174glCvqwyEnTc6VXan0PcoyT9V-Q2NPb/view?usp=drive_link
 
 
