@@ -57,7 +57,8 @@ const Header = () => {
       <div className=' h-full container mx-auto flex items-center px-4 justify-between'>
             <div className=''>
                 <Link to={"/"}>
-                    <Logo w={90} h={50}/>
+                    {/* <Logo w={90} h={50}/> */}
+                    <img src="https://pluspng.com/img-png/shopify-png-shopify-ecommerce-platform-987.png" style={{ position: "relative",right:"20px",top:"4px" }} alt="Description" width="160" />;
                 </Link>
             </div>
 
