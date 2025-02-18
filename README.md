@@ -1,6 +1,7 @@
 # Full-Stack-E-Commerce-MERN-APP
 Full Stack E-Commerce MERN APP
 
+![{4C8CA7E9-144F-41F0-998C-9E5F90DE636A}](https://github.com/user-attachments/assets/c54c1619-f9d3-40aa-bd33-b7b4a608ca6d)
 
 
 Backend .env file 
